@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/.gitignore" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ionic.project" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/css/style.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/modules/common/services/commonUtil.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/modules/login/services/AuthenticationServices.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/modules/login/views/registerCtrl.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/modules/login/views/sign-up.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/modules/login/views/signinCtrl.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/modules/map/_map.app.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/modules/map/directive/google-map.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/modules/map/views/map.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/modules/map/views/shopLocatorMap.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/modules/product/_product.app.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/modules/product/services/productServices.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/modules/product/views/product-details.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/modules/product/views/product-types.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/modules/product/views/productDetailsSearchCtrl.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/modules/product/views/productTypeSearchCtrl.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/modules/shops/services/shopServices.js" charset="UTF-8" />
+  </component>
+</project>
